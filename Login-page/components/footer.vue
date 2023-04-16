@@ -1,6 +1,6 @@
 <template>
   <div class="z-40 w-12/12 h-auto flex flex-col md:flex-row items-center justify-center gap-10 p-5 bg-[#222]">
-  <div class="grid place-content-center">
+  <div class="grid place-items-center">
     <img class="max-w-[180px]" src="https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/10.svg" alt="">
     <img class="max-w-[200px] h-[100px]" src="https://www-league.nhlstatic.com/images/logos/league-dark/133-com.svg" alt="">
   </div>

@@ -2,11 +2,11 @@
     <div class="bg-white pt-16 md:pt-0">
       <div class="pb-10 relative h-auto max-h-[400px] md:mt-4 md:p-3 lg:w-auto shadow-lg rounded bg-white text-[#333] flex flex-col justify-start items-center">
 
-      <h2 class="uppercase text-[#333] text-[16px] font-black text-center my-2">
+      <h2 class="uppercase text-[#182565] text-[16px] font-black text-center my-2">
           Your actions will appear here
       </h2>
       
-      <div class="w-[390px] sm:w-full  overflow-auto">
+      <div class="w-[390px] sm:w-full overflow-auto">
         <table class="w-full">
       <tr>
         <th>s/n</th>
@@ -42,7 +42,7 @@
   
       <div class="pb-10 relative h-auto max-h-[400px] md:p-3 lg:w-auto shadow-lg rounded bg-white text-[#333] flex flex-col justify-start items-center">
 
-      <h2 class="uppercase text-[#333] text-[16px] font-black text-center my-2">
+      <h2 class="uppercase text-[#182565] text-[16px] font-black text-center my-2">
           Actions (Gears)
       </h2>
       
@@ -82,62 +82,68 @@ export default {
       actions:[
         {
           sn: 1,
+          date: '04/16/2023',
           title: 'License',
           name: 'Cathy Arnold',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
           sn: 2,
+          date: '04/12/2023',
           title: 'License',
           name: 'Sue Fox-Hutson',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$1,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
           sn: 3,
+          date: '04/10/2023',
           title: 'License',
           name: 'Creed Mc Kinnon',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
           sn: 4,
+          date: '04/09/2023',
           title: 'License',
           name: 'Tyler Lanktree',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
           sn: 5,
+          date: '04/08/2023',
           title: 'License',
           name: 'Dave Fehr',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$1,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
           sn: 6,
+          date: '04/08/2023',
           title: 'License',
           name: 'Marlene Silver',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$1,999',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         }
       ],
@@ -145,6 +151,7 @@ export default {
       gears:[
         {
           sn: 1,
+          date: '03/28/2023',
           title: 'vs. Montreal Canadiens on May 22, 2021',
           price: '$14,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">sold</p>',
@@ -153,6 +160,7 @@ export default {
         },
         {
           sn: 2,
+          date: 'till date',
           title: 'Game Used 5-24-21 vs. MTL" Inscription',
           price: '$14,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
@@ -161,26 +169,29 @@ export default {
         },
         {
           sn: 3,
+          date: 'till date',
           title: 'Fanatics Authentic 36" x 48',
           price: '$4,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$1,500',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
           sn: 4,
+          date: 'till date',
           title: 'White Adidas Authentic Jersey Hand Painted',
           price: '$2,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$500',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
           sn: 5,
+          date: '02/01/2023',
           title: 'Autographed Fanatics Authentic Blue Jersey - Hand Painted',
           price: '$3,499',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-gray-600 text-white text-[10px] leading-[10px]">retrieved</p>',
-          license: '$500',
+          license: '$2,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
       ]
