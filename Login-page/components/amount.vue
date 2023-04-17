@@ -3,8 +3,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-2">
       <div>
         <p>Premium Investor</p>
-        <br />
-        <h2 class="text-[20px] text-[#f3f3f3]">Athlete to Toronto Maple Leafs</h2>
+        <h2 class="text-[20px] text-[#f3f3f3]">Athlete (Toronto Maple Leafs Center)</h2>
       </div>
 
       <div class="md:text-right mt-5 md:mt-0">

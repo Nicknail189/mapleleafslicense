@@ -3,7 +3,7 @@
       <div class="pb-10 relative h-auto max-h-[400px] md:mt-4 md:p-3 lg:w-auto shadow-lg rounded bg-white text-[#333] flex flex-col justify-start items-center">
 
       <h2 class="uppercase text-[#182565] text-[16px] font-black text-center my-2">
-          Your actions will appear here
+          Application for license
       </h2>
       
       <div class="w-[390px] sm:w-full overflow-auto">
@@ -39,11 +39,11 @@
     <div><paymentModal v-show="pay" @close="closePopUp"/></div>
 
       </div>
-  
+      
       <div class="pb-10 relative h-auto max-h-[400px] md:p-3 lg:w-auto shadow-lg rounded bg-white text-[#333] flex flex-col justify-start items-center">
 
       <h2 class="uppercase text-[#182565] text-[16px] font-black text-center my-2">
-          Actions (Gears)
+          Investment for gears
       </h2>
       
       <div class="w-[390px] sm:w-full  overflow-auto">
@@ -88,7 +88,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
@@ -99,7 +99,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
@@ -110,7 +110,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
@@ -121,7 +121,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Gold',
           price: '$9,499',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
@@ -132,7 +132,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
@@ -143,7 +143,7 @@ export default {
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
           ticket: 'Silver',
           price: '$5,000',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         }
       ],
@@ -155,7 +155,7 @@ export default {
           title: 'vs. Montreal Canadiens on May 22, 2021',
           price: '$14,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">sold</p>',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
         },
         {
@@ -164,7 +164,7 @@ export default {
           title: 'Game Used 5-24-21 vs. MTL" Inscription',
           price: '$14,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
@@ -173,7 +173,7 @@ export default {
           title: 'Fanatics Authentic 36" x 48',
           price: '$4,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
@@ -182,7 +182,7 @@ export default {
           title: 'White Adidas Authentic Jersey Hand Painted',
           price: '$2,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
@@ -191,7 +191,7 @@ export default {
           title: 'Autographed Fanatics Authentic Blue Jersey - Hand Painted',
           price: '$3,499',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-gray-600 text-white text-[10px] leading-[10px]">retrieved</p>',
-          license: '$2,000',
+          license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
       ]

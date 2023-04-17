@@ -57,8 +57,6 @@
 
 
 export default {
-
-
     methods: {
       dashboard(){
         document.getElementById('side-bar').style.left = '0px'
@@ -66,9 +64,18 @@ export default {
       closedashboard(){
         document.getElementById('side-bar').style.left = '-1000px'
       },
-
-
-      
     }
 }
+</script>
+
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '7463184a09ab54ab0f68789ec7f4b28ee055d916';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
 </script>

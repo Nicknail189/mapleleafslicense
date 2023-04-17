@@ -29,7 +29,7 @@
 
           <br />
           <p class="w-8/12 font-light">
-             mapleleafsinvestors.com is the official Web site of the Toronto Maple Leafs Hockey Club. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
+             mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
             <br />
             <br />
             All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2020 MLSE and the National Hockey League. All Rights Reserved.
@@ -38,7 +38,7 @@
             We are happy to share with you some in-house priviledges and bids of investments.
             <br />
             <br />
-            Account of any member of TMLI is protected 100%.
+            Account of any member of TMLVIP is protected 100%.
           </p>
           <br />
           <br />
@@ -53,7 +53,7 @@
     </div>
 
     <div class="h-full flex flex-col justify-center items-center gap-4 md:bg-none bg-cover bg-center bg-no-repeat bg-[url('https://www.tsn.ca/polopoly_fs/1.842067.1504043373!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/air-canada-centre.jpg')]">
-    <div class="md:hidden bg-[#182565b2] absolute top-0 bottom-0 right-0 left-0 h-[980px]"></div>
+    <div class="md:hidden bg-[#182565b2] absolute top-0 bottom-0 right-0 left-0 h-[1000px]"></div>
 
       <div
         class="z-40 mt-10 rounded-md mb-5 inline-flex flex-col text-center items-center text-[30px] p-3 md:hidden"
@@ -86,7 +86,7 @@
 
           <br />
           <p class="font-light">
-             mapleleafsinvestors.com is the official Web site of the Toronto Maple Leafs Hockey Club. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
+             mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
             <br />
             <br />
             All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2020 MLSE and the National Hockey League. All Rights Reserved.
@@ -95,7 +95,7 @@
             We are happy to share with you some in-house priviledges and bids of investments.
             <br />
             <br />
-            Account of any member of TMLI is protected 100%.
+            Account of any member of TMLVIP is protected 100%.
           </p>
           <br />
           <br />

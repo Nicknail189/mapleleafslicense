@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     ],
     app: {
         head: {
-            link: [{ rel: 'icon', type: 'image/png', href: 'https://www.nuxtjs.cn/logos/nuxt-icon-white.png' }]
+            link: [{ rel: 'icon', type: 'image/png', href: 'https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/10.svg' }]
         }
     },
 })
