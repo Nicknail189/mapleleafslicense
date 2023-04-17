@@ -18,7 +18,7 @@
           <div>
             <h2 class="medium-header mt-4 font-normal tracking-wider">TORONTO MAPLE LEAFS</h2>
           <h4 class="large-header uppercase font-thin">
-            WELCOME TO LEAFS NATION
+            WELCOME TO MAPLE LEAFS VIP LICENSE
           </h4>
           </div>
           
