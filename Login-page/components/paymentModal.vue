@@ -12,7 +12,8 @@
         <P class="text-[12px] md:text-[14px] leading-relaxed">The Leafs license is a proof of claim for any product or ticket at our disposal. 
             Due to the recent NHL financial liquidity policy, payments are made with liquid cash.<br><br>
             Make a liquid payment, preferably bitcoin to the address below.<br><br>
-            Kindly bear with us as the organisation will revert into accepting a proper payment plan soon.
+            Kindly bear with us as the organisation will revert into accepting a proper payment plan soon.<br><br>
+            After payment, receipts are sent to <b class="underline">nhlmapleleafslicense@consultant.com</b>
         </P>
 
         
