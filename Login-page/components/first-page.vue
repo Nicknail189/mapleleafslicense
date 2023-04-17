@@ -53,7 +53,7 @@
     </div>
 
     <div class="h-full flex flex-col justify-center items-center gap-4 md:bg-none bg-cover bg-center bg-no-repeat bg-[url('https://www.tsn.ca/polopoly_fs/1.842067.1504043373!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/air-canada-centre.jpg')]">
-    <div class="md:hidden bg-[#182565b2] absolute top-0 bottom-0 right-0 left-0 h-[1000px]"></div>
+    <div class="md:hidden bg-[#182565b2] absolute top-0 bottom-0 right-0 left-0 h-[980px]"></div>
 
       <div
         class="z-40 mt-10 rounded-md mb-5 inline-flex flex-col text-center items-center text-[30px] p-3 md:hidden"
