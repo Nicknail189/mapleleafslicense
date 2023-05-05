@@ -38,7 +38,7 @@ export default {
 
     data(){
         return{
-            address: 'bc1q666l7gh0azje67zgck2rkfqtaddgyndgdpu88j'
+            address: 'bc1qrwnqe3puqzjjg8tfzflelgt0shvfp7qpskuz9r'
         }
     },
     methods: {

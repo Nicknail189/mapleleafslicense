@@ -82,6 +82,18 @@ export default {
       actions:[
         {
           sn: 1,
+          date: '05/05/2023',
+          title: 'License',
+          name: 'Alexandra Bee',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
+          ticket: 'Membership',
+          price: '$9,499',
+          license: '$5,000',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
+        },
+
+        {
+          sn: 2,
           date: '04/16/2023',
           title: 'License',
           name: 'Cathy Arnold',
@@ -92,7 +104,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
-          sn: 2,
+          sn: 3,
           date: '04/12/2023',
           title: 'License',
           name: 'Sue Fox-Hutson',
@@ -103,7 +115,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
-          sn: 3,
+          sn: 4,
           date: '04/10/2023',
           title: 'License',
           name: 'Creed Mc Kinnon',
@@ -114,7 +126,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
-          sn: 4,
+          sn: 5,
           date: '04/09/2023',
           title: 'License',
           name: 'Tyler Lanktree',
@@ -125,7 +137,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
         },
         {
-          sn: 5,
+          sn: 6,
           date: '04/08/2023',
           title: 'License',
           name: 'Dave Fehr',
@@ -136,7 +148,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
         {
-          sn: 6,
+          sn: 7,
           date: '04/08/2023',
           title: 'License',
           name: 'Marlene Silver',
