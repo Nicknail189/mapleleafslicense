@@ -43,28 +43,34 @@
       <div class="pb-10 relative h-auto max-h-[400px] md:p-3 lg:w-auto shadow-lg rounded bg-white text-[#333] flex flex-col justify-start items-center">
 
       <h2 class="uppercase text-[#182565] text-[16px] font-black text-center my-2">
-          Investment for gears
+          Application for gears
       </h2>
       
-      <div class="w-[390px] sm:w-full  overflow-auto">
+      <div class="w-[390px] sm:w-full overflow-auto">
         <table class="w-full">
       <tr>
         <th>s/n</th>
+        <th>email</th>
         <th>date</th>
         <th>title</th>
         <th>price</th>
         <th>status</th>
         <th>license</th>
         <th>lic/status</th>
+        <th>action</th>
       </tr>
-      <tr v-for="gear in gears" :key="gear.sn">
-        <td>{{gear.sn}}</td>
+      <tr v-for="(gear ,index) in gears" :key="gear.mail">
+        <td>{{index+1}}</td>
+        <td>{{gear.mail}}</td>
         <td>{{gear.date}}</td>
         <td class="min-w-[180px]">{{gear.title}}</td>
         <td>{{gear.price}}</td>
         <td v-html="gear.status"></td>
         <td>{{gear.license}}</td>
         <td v-html="gear.tag"></td>
+        <td>
+          <input @click="openPopUp" class="text-[10px] text-white bg-black/20 hover:bg-green-700 px-2 py-1 rounded-sm" type="button" value="make payment">
+        </td>
       </tr>
         </table>
       </div>
@@ -174,25 +180,34 @@ export default {
 
       gears:[
         {
-          sn: 1,
-          date: '03/28/2023',
+          mail: 'tutti.misty@gmail.com',
+          date: '05/22/2023',
           title: 'vs. Montreal Canadiens on May 22, 2021',
-          price: '$14,999',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">sold</p>',
+          price: '$10,999',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
           license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
         },
         {
-          sn: 2,
-          date: 'till date',
-          title: 'Game Used 5-24-21 vs. MTL" Inscription',
-          price: '$14,999',
+          mail: 'self',
+          date: '03/28/2023',
+          title: 'vs. Montreal Canadiens on May 22, 2021',
+          price: '$10,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
           license: '$5,000',
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          sn: 3,
+          mail: 'self',
+          date: 'till date',
+          title: 'Game Used 5-24-21 vs. MTL" Inscription',
+          price: '$10,999',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
+          license: '$5,000',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+        },
+        {
+          mail: 'self',
           date: 'till date',
           title: 'Fanatics Authentic 36" x 48',
           price: '$4,999',
@@ -201,7 +216,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          sn: 4,
+          mail: 'self',
           date: 'till date',
           title: 'White Adidas Authentic Jersey Hand Painted',
           price: '$2,999',
@@ -210,7 +225,7 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          sn: 5,
+          mail: 'self',
           date: '02/01/2023',
           title: 'Autographed Fanatics Authentic Blue Jersey - Hand Painted',
           price: '$3,499',

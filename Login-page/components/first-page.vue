@@ -18,7 +18,7 @@
           <div>
             <h2 class="medium-header mt-4 font-normal tracking-wider">TORONTO MAPLE LEAFS</h2>
           <h4 class="large-header uppercase font-thin">
-            WELCOME TO MAPLE LEAFS VIP LICENSE
+            WELCOME TO MAPLE LEAFS VIP MEMBERSHIP
           </h4>
           </div>
           
@@ -29,7 +29,7 @@
 
           <br />
           <p class="w-8/12 font-light">
-             mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
+             mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP Members. The mapleleafslicense.vercel.app and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
             <br />
             <br />
             All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2020 MLSE and the National Hockey League. All Rights Reserved.
@@ -67,7 +67,7 @@
           <div>
           <h2 class="text-sm mt-4 font-normal tracking-wider">TORONTO MAPLE LEAFS</h2>
           <h4 class="text-[24px] uppercase font-thin">
-            WELCOME TO LEAFS NATION
+            WELCOME TO LEAFS MEMBERSHIP
           </h4>
           </div>
       </div>

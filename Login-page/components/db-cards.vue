@@ -10,7 +10,7 @@
       <p class="body-text mb-4">
         Autographed Toronto Maple Leafs Auston Matthews Fanatics Authentic Game-Used #34 Blue Jersey with "A" Patch vs. Montreal Canadiens on May 22, 2021 with Multiple Inscriptions - Size 58
       </p>
-      <b class="text-lg font-extrabold">$14,999<sup>99</sup></b>
+      <b class="text-lg font-extrabold">$10,999<sup>99</sup></b>
       <p class="body-text text-green-700 mt-2">Payment is done by the owner of this account to the NHL</p>
     </div>
 
@@ -24,7 +24,7 @@
       <p class="body-text mb-4">
         Autographed Toronto Maple Leafs Auston Matthews Fanatics Authentic Game-Used #34 White Jersey with "A" Patch vs. Montreal Canadiens on May 24, 2021 with "Game Used 5-24-21 vs. MTL" Inscription - Size 58
       </p>
-      <b class="text-lg font-extrabold">$14,999<sup>99</sup></b>
+      <b class="text-lg font-extrabold">$10,999<sup>99</sup></b>
       <p class="body-text text-green-700 mt-2">Payment is done by the owner of this account to the NHL</p>
     </div>
 

@@ -2,8 +2,8 @@
   <div class="container w-full md:min-w-[400px] bg-[#232432] md:mb-4 flex flex-col p-5">
     <div class="grid grid-cols-1 lg:grid-cols-2">
       <div>
-        <p>Premium Investor</p>
-        <h2 class="text-[20px] text-[#f3f3f3]">Athlete (Toronto Maple Leafs Center)</h2>
+        <p>Premium Membership</p>
+        <h2 class="text-[20px] text-[#f3f3f3]">Athlete (Toronto Maple Leafs)</h2>
       </div>
 
       <div class="md:text-right mt-5 md:mt-0">
@@ -48,7 +48,7 @@
           <icon class="text-[18px] text-blue-500" name="uil:money-bill-stack" />
           <p v-if="investment">Investment</p>
         </div>
-        <h4>$907,990.00</h4>
+        <h4>$$2,362,500.00  <i>PJ: 30.67% ROI in 2023</i></h4>
       </div>
     </div>
   </div>
