@@ -34,16 +34,21 @@
             </div>
           </div>
           <div>
-            <div class="flex items-center w-full bg-blue-900 p-2 mt-12 rounded-md text-[20px]">
+            <div class="bg-white pt-12">
+            <div class="flex items-center w-full bg-blue-900 p-2 rounded-md text-[20px]">
               <icon class="mr-3 text-[32px]" name="ri:t-shirt-2-fill"/>
               NHL Official Licensed Gear
             </div>
+            </div>
             <db-cards />
           </div>
-          <div class="flex items-center w-full bg-blue-900 p-2 mt-12 mb-4 rounded-md text-[20px]">
+
+          <div class="bg-white pt-12 pb-4">
+          <div class="flex items-center w-full bg-blue-900 p-2 rounded-md text-[20px]">
               <icon class="mr-3 text-[32px]" name="material-symbols:deployed-code-history"/>
               Application History
             </div>
+          </div>
           <transactions />
           <div class="container bg-blue-900 px-4 py-10">For any issue of double payment, transactions, and delay, kindly send a mail to <b class="underline cursor-pointer">nhlmapleleafslicense@consultant.com</b> with the theme TRANSACTION.</div>
         </div>
