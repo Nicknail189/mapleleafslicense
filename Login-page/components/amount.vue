@@ -48,7 +48,7 @@
           <icon class="text-[18px] text-blue-500" name="uil:money-bill-stack" />
           <p v-if="investment">Investment</p>
         </div>
-        <h4>$$2,362,500.00  <i>PJ: 30.67% ROI in 2023</i></h4>
+        <h4>$2,362,500.00  <i>PJ: 30.67% ROI in 2023</i></h4>
       </div>
     </div>
   </div>
