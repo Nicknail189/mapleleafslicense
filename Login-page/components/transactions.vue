@@ -90,12 +90,12 @@ export default {
           sn: 1,
           date: '06/05/2023',
           title: 'License',
-          name: 'Tasha Brown',
+          name: 'Andrew Swift',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
           ticket: 'Membership',
           price: '$9,499',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>'
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
 
         {
@@ -107,7 +107,7 @@ export default {
           ticket: 'Membership',
           price: '$9,499',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>'
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>'
         },
 
         {
@@ -115,7 +115,7 @@ export default {
           date: '04/16/2023',
           title: 'License',
           name: 'Cathy Arnold',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">rejected</p>',
           ticket: 'Gold',
           price: '$9,499',
           license: '$5,000',
@@ -126,7 +126,7 @@ export default {
           date: '04/12/2023',
           title: 'License',
           name: 'Sue Fox-Hutson',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">rejected</p>',
           ticket: 'Silver',
           price: '$5,000',
           license: '$5,000',
@@ -148,7 +148,7 @@ export default {
           date: '04/09/2023',
           title: 'License',
           name: 'Tyler Lanktree',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">rejected</p>',
           ticket: 'Gold',
           price: '$9,499',
           license: '$5,000',
@@ -170,7 +170,7 @@ export default {
           date: '04/08/2023',
           title: 'License',
           name: 'Marlene Silver',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">pending</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">rejected</p>',
           ticket: 'Silver',
           price: '$5,000',
           license: '$5,000',
@@ -180,17 +180,8 @@ export default {
 
       gears:[
         {
-          mail: 'tutti.misty@gmail.com',
-          date: '05/22/2023',
-          title: 'vs. Montreal Canadiens on May 22, 2021',
-          price: '$10,999',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
-          license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
-        },
-        {
-          mail: 'self',
-          date: '03/28/2023',
+          mail: 'suckoutmytampon@gmail.com',
+          date: '06/23/2023',
           title: 'vs. Montreal Canadiens on May 22, 2021',
           price: '$10,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
@@ -198,13 +189,31 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          mail: 'self',
+          mail: 'tutti.misty@gmail.com',
+          date: '05/22/2023',
+          title: 'vs. Montreal Canadiens on May 24, 2021',
+          price: '$10,999',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
+          license: '$5,000',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+        },
+        {
+          mail: 'creedmckinnoncreed@gmail.com',
+          date: '03/28/2023',
+          title: 'vs. Montreal Canadiens on May 24, 2021',
+          price: '$10,999',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
+          license: '$5,000',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
+        },
+        {
+          mail: 'andrewswift32@gmail.com',
           date: 'till date',
           title: 'Game Used 5-24-21 vs. MTL" Inscription',
           price: '$10,999',
-          status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
+          status: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">delivered</p>',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
         },
         {
           mail: 'self',
@@ -213,7 +222,7 @@ export default {
           price: '$4,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
         },
         {
           mail: 'self',
@@ -222,7 +231,7 @@ export default {
           price: '$2,999',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-blue-600 text-white text-[10px] leading-[10px]">available</p>',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
         },
         {
           mail: 'self',
@@ -231,7 +240,7 @@ export default {
           price: '$3,499',
           status: '<p class="inline-block p-1 px-2 rounded-sm bg-gray-600 text-white text-[10px] leading-[10px]">retrieved</p>',
           license: '$5,000',
-          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
+          tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
         },
       ]
     }

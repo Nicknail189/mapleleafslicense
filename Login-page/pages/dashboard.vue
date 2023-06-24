@@ -20,6 +20,7 @@
           <NuxtLink to="/">
             <navigation />
           </NuxtLink>
+          
           <side-bar @close-sidebar="closedashboard()" />
         </div>
         </div>
@@ -34,7 +35,7 @@
             </div>
           </div>
           <div>
-            <div class="bg-white pt-12">
+            <div class="bg-white pt-12 md:bg-transparent">
             <div class="flex items-center w-full bg-blue-900 p-2 rounded-md text-[20px]">
               <icon class="mr-3 text-[32px]" name="ri:t-shirt-2-fill"/>
               NHL Official Licensed Gear
@@ -43,7 +44,7 @@
             <db-cards />
           </div>
 
-          <div class="bg-white pt-12 pb-4">
+          <div class="bg-white pt-12 pb-4 md:bg-transparent">
           <div class="flex items-center w-full bg-blue-900 p-2 rounded-md text-[20px]">
               <icon class="mr-3 text-[32px]" name="material-symbols:deployed-code-history"/>
               Application History

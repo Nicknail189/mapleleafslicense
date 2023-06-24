@@ -39,7 +39,7 @@
             class="custom-input bg-black/50 backdrop-blur-md"
           />
 
-          <label for="state">Enter state</label>
+          <!-- <label for="state">Enter state</label>
           <select
             v-model="signUp.state"
             name="state"
@@ -103,7 +103,7 @@
             <option value="West Virginia">West Virginia</option>
             <option value="Wisconsin">Wisconsin</option>
             <option value="Wyoming">Wyoming</option>
-          </select>
+          </select> -->
         </div>
 
         <div class="flex flex-col justify-center items-center gap-2 md:ml-10">
@@ -143,7 +143,7 @@
       <br />
       <br />
       <br />
-      <button type="submit" class="login-btn w-full">Complete</button>
+      <button type="submit" class="login-btn w-full">Proceed to payment</button>
     </form>
     <br />
     <br />

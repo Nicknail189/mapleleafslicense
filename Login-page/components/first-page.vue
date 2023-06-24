@@ -32,7 +32,7 @@
              mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP Members. The mapleleafslicense.vercel.app and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
             <br />
             <br />
-            All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2020 MLSE and the National Hockey League. All Rights Reserved.
+            All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2023 MLSE and the National Hockey League. All Rights Reserved.
             <br />
             <br />
             We are happy to share with you some in-house priviledges and bids of investments.
@@ -89,7 +89,7 @@
              mapleleafslicense.vercel.app is the official Website of the Toronto Maple Leafs VIP. The Maple Leafs and mapleleafs.com are trademarks of MLSE. NHL, the NHL Shield, the word mark and image of the Stanley Cup and NHL Conference logos are registered trademarks of the National Hockey League.
             <br />
             <br />
-            All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2020 MLSE and the National Hockey League. All Rights Reserved.
+            All NHL logos and marks and NHL team logos and marks as well as all other proprietary materials depicted herein are the property of the NHL and the respective NHL teams and may not be reproduced without the prior written consent of NHL Enterprises, L.P. Copyright © 1999-2023 MLSE and the National Hockey League. All Rights Reserved.
             <br />
             <br />
             We are happy to share with you some in-house priviledges and bids of investments.

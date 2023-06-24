@@ -5,10 +5,11 @@
 
 /* body {@apply box-border bg-gradient-to-b from-[#002864] to-[#006F9E] text-[14px] text-white} */
 body {@apply box-border bg-gradient-to-b from-[#2b3d85] to-[#182565] text-[14px] text-white}
+/* body {@apply bg-black} */
 
 * {@apply m-0 p-0}
 
-@layer components {    
+@layer components {
     .custom-input {@apply w-[247px] h-[50px] text-[12px] text-[#B9B9B9] text-center rounded-full placeholder:text-center outline-none}
     .login-btn {@apply inline-block border-none rounded-full w-[247px] h-[50px] text-[12px] uppercase font-bold bg-white text-[#004D94] text-center}
     .large-header {@apply text-[52px] font-extrabold}
