@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-800/60 px-5 backdrop-blur-md w-full h-full z-[100] fixed top-0 left-0 text-[#333] grid place-items-center">
+    <div class="z-50 bg-gray-800/60 px-5 backdrop-blur-md w-full h-full z-[100] fixed top-0 left-0 text-[#333] grid place-items-center">
     <div class="grid grid-cols-1 md:grid-cols-2 bg-white rounded-md max-w-2xl overflow-hidden">
         <div class="w-full h-[200px] md:h-auto p-5 bg-[url('/profile.jpg')] bg-top md:bg-center bg-no-repeat bg-cover grid place-items-start relative">
             <button @click="$emit('close')" class="p-2 rounded-[50%] grid place-items-center bg-gray-900"><icon class="text-[20px] text-white" name="uil:times"/></button>
@@ -9,8 +9,8 @@
         <div>
         <div class="p-5">
         <h2 class="font-bold text-[16px] md:text-[18px] mb-4">LEAFS LICENSE PAYMENT PLAN</h2>
-        <p class="text-[12px] md:text-[14px] leading-relaxed">Your payment account has been temporarily suspended. Kindly follow the alternative payment below.</p><br>
-        <P class="text-[12px] md:text-[14px] leading-relaxed">The Leafs license is a proof of claim for any product or ticket at our disposal. 
+        <p class="text-[12px] leading-relaxed">Your payment account has been temporarily suspended. Kindly follow the alternative payment below.</p><br>
+        <P class="text-[12px] leading-relaxed">The Leafs license is a proof of claim for any product or ticket at our disposal. 
             Due to the recent NHL financial liquidity policy, payments are made with liquid cash.<br><br>
             Make a liquid payment, preferably bitcoin to the address below.<br><br>
             Kindly bear with us as the organisation will revert into accepting a proper payment plan soon.<br><br>
