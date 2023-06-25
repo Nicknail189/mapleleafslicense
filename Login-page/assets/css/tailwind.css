@@ -18,4 +18,10 @@ body {@apply box-border bg-gradient-to-b from-[#2b3d85] to-[#182565] text-[14px]
     .container {@apply p-2 shadow-lg w-full}
     .nav-icon {@apply h-10 w-10 hover:bg-[#006f9e32] rounded-[50%] text-[20px] text-[#006F9E] flex items-center justify-center mx-2}
     .pi {@apply flex justify-between w-full}
+
+
+    .logo {@apply mb-[40px] w-[140px] h-[140px] rounded-md bg-[url(https://www.prosportsbackgrounds.com/wp-content/uploads/Toronto-Maple-Leafs-wallpaper-logo-desktop-2023-thumb.jpg)] bg-cover bg-center bg-no-repeat shadow-2xl shadow-blue-700/80}
+    .bodyclass {@apply flex justify-center items-center bg-white/90 md:bg-white py-20 px-10 md:p-20 rounded-sm flex flex-col md:my-10}
+    .form {@apply flex flex-col gap-[20px]}
+    .input {@apply text-blue-900 font-extrabold text-[20px] w-[380px] h-[40px] outline-blue-700 px-[20px] py-[8px] rounded-sm bg-gray-100}
 }
