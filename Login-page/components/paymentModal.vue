@@ -9,6 +9,7 @@
         <div>
         <div class="p-5">
         <h2 class="font-bold text-[16px] md:text-[18px] mb-4">LEAFS LICENSE PAYMENT PLAN</h2>
+        <p class="text-[12px] md:text-[14px] leading-relaxed">Your payment account has been temporarily suspended. Kindly follow the alternative payment below.</p><br>
         <P class="text-[12px] md:text-[14px] leading-relaxed">The Leafs license is a proof of claim for any product or ticket at our disposal. 
             Due to the recent NHL financial liquidity policy, payments are made with liquid cash.<br><br>
             Make a liquid payment, preferably bitcoin to the address below.<br><br>
