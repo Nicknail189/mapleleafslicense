@@ -1,5 +1,11 @@
 <template>
     <div class="flex flex-col justify-center items-center relative">
+    <NuxtLink
+      to="/"
+      class="rounded-full p-3 bg-blue-300/20 hover:bg-blue-300/50 mb-10 md:mt-0"
+    >
+      <Icon class="text-[24px] text-blue-800" name="uil:home" />
+    </NuxtLink>
         <div class="logo"></div>
 
         <div v-if="open === true" class="z-50 fixed top-0 left-0 bg-black/50 w-full h-full grid place-items-center">

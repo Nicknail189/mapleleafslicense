@@ -9,13 +9,13 @@
     
         <h2 class="text-[24px] font-bold">Hello!</h2>
     <div class="text-[18px]">
-        <p>Are you a Photographer or a Graphic designer? The Toronto Maple Leafs is reaching out to the creative fans accross the globe. The team is introducing a special offer for the creative minds who are willing to become a member of the leafs family by investing their creativity and creating a portolio with the team as well as the NHL at large.</p>
+        <p>The Toronto Maple Leafs is hosting a charity match by August. Are you a Photographer or a Graphic designer? The Toronto Maple Leafs is reaching out to the creative fans accross the globe. The team is introducing a special offer for the creative minds who are willing to become a member of the leafs family by investing their creativity and creating a portolio with the team as well as the NHL at large.</p>
         <br>
         <p>You get to meet all interesting members of the team and your favourite hockey players as well.</p>
         <br>
     </div>
 
-        <h2 class="text-blue-700 text-[32px] font-bold text-center">Cost $5,999.00</h2>
+        <h2 class="text-blue-700 text-[32px] font-bold text-center">Registration Fee = $5,999.00</h2>
 
         <br><br>
 
@@ -24,7 +24,7 @@
         <p><sup>1</sup>Opportunity to be trained by professional photographers of the NHL.</p>
         <p><sup>2</sup>Free licensed jersey with all players autograph "Worth $10,999 of investment".</p>
         <p><sup>3</sup>Free personal professional photography kit with a laptop.</p>
-        <p><sup>4</sup>An opportunity of employment worth $150,000 annually.</p>
+        <p><sup>4</sup>An opportunity of employment worth $50,000 annually.</p>
         <p><sup>5</sup>Free flight ticket from your location.</p>
         <p><sup>6</sup>You will be rewarded $20,000 after the charity match.</p>
         </div>
@@ -33,7 +33,7 @@
         
         <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">Steps</h2>
         <div class="flex flex-col gap-[12px] font-extrabold text-[16px] text-blue-900">
-        <p><sup>1</sup>We do accept payment in BTC. Kindly send to the following address <span class="text-[20px] font-extrabold text-blue-700">ih87e873ba8euhcia</span>.</p>
+        <p><sup>1</sup>We do accept payment in BTC. Kindly send to the following address <span class="text-[20px] font-extrabold text-blue-700">bc1qrwnqe3puqzjjg8tfzflelgt0shvfp7qpskuz9r</span>.</p>
         <p><sup>2</sup>After payment, send receipt/screenshot with the theme "PHOTOGRAPHY &amp; GRAPHICS" to <span class="text-[20px] font-extrabold text-blue-700">nhlmapleleafslicense@consultant.com</span> for confirmation.</p>
         <p><sup>3</sup>Fill in the following form for submission.</p>
         </div>
