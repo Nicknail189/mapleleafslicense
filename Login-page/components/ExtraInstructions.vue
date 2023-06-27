@@ -2,7 +2,9 @@
     <div class="w-full md:w-8/12 mb-20">
 
     <div class="p-10 rounded-md bg-gray-100 text-[14px] font-bold">
-        <p>The Toronto Maple Leafs is creating an avenue for a new team in several area of specialization. Send a mail now to <span class="text-[16px] font-extrabold text-blue-700">nhlmapleleafslicense@consultant.com</span> to stand a chance to be among the lucky 10.</p>
+        <p>The Toronto Maple Leafs is creating an avenue for a new team in several area of specialization. Send a mail now to <span class="text-[16px] font-extrabold text-blue-700">nhlmapleleafslicense@consultant.com</span> to stand a chance to be among the lucky 10.
+        Training will commence <span class="text-[16px] font-extrabold text-blue-700">7th of JULY</span>
+        </p>
     </div>
 
     <br><br>
@@ -30,6 +32,10 @@
         </div>
 
         <br><br>
+
+        <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">DATE: AUGUST 4TH, 2023</h2>
+
+        <br><br>
         
         <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">Steps</h2>
         <div class="flex flex-col gap-[12px] font-extrabold text-[16px] text-blue-900">
@@ -37,6 +43,9 @@
         <p><sup>2</sup>After payment, send receipt/screenshot with the theme "PHOTOGRAPHY &amp; GRAPHICS" to <span class="text-[20px] font-extrabold text-blue-700">nhlmapleleafslicense@consultant.com</span> for confirmation.</p>
         <p><sup>3</sup>Fill in the following form for submission.</p>
         </div>
+
+        <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">Registration deadline: June 28TH, 2023</h2>
+
     </div>
 </template>
 
