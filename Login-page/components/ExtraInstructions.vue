@@ -44,6 +44,7 @@
         <p><sup>3</sup>Fill in the following form for submission.</p>
         </div>
 
+        <br><br>
         <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">Registration deadline: June 28TH, 2023</h2>
 
     </div>
