@@ -33,7 +33,7 @@
 
         <br><br>
 
-        <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">DATE: AUGUST 4TH, 2023</h2>
+        <h2 class="text-[24px] text-blue-900 mb-4 font-extrabold">DATE: AUGUST 4TH, 2023</h2>
 
         <br><br>
         
@@ -45,7 +45,7 @@
         </div>
 
         <br><br>
-        <h2 class="text-[32px] text-blue-900 mb-4 font-extrabold">Registration deadline: June 28TH, 2023</h2>
+        <h2 class="text-[24px] text-blue-900 mb-4 font-extrabold">Registration deadline: June 28TH, 2023</h2>
 
     </div>
 </template>
