@@ -80,9 +80,9 @@
       <NuxtLink to="/signInPage" class="z-20">
         <button class="login-btn">Sign in</button>
       </NuxtLink>
-      <!-- <NuxtLink to="/register" class="z-20">
+      <NuxtLink to="/register" class="z-20">
         <button class="login-btn">Register</button>
-      </NuxtLink> -->
+      </NuxtLink>
 
               <!-- text -->
         <div class="z-40 md:hidden p-4">
