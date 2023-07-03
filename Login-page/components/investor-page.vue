@@ -38,7 +38,7 @@
             <div class="bg-white pt-12 pb-4 md:bg-transparent">
             <div class="flex items-center w-full bg-blue-900 p-2 rounded-md text-[20px]">
               <icon class="mr-3 text-[32px]" name="material-symbols:deployed-code-history"/>
-              List of Co-Investors
+              Meet the Co-Investors
             </div>
             </div>
             <investor-cards/>
