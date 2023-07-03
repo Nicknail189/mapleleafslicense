@@ -189,7 +189,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          mail: 'tutti.misty@gmail.com',
+          // mail: 'tutti.misty@gmail.com',
+          mail: '*******',
           date: '05/22/2023',
           title: 'vs. Montreal Canadiens on May 24, 2021',
           price: '$10,999',
@@ -198,7 +199,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">unpaid</p>',
         },
         {
-          mail: 'creedmckinnoncreed@gmail.com',
+          mail: '*******',
+          // mail: 'creedmckinnoncreed@gmail.com',
           date: '03/28/2023',
           title: 'vs. Montreal Canadiens on May 24, 2021',
           price: '$10,999',
@@ -207,7 +209,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
         },
         {
-          mail: 'andrewswift32@gmail.com',
+          mail: '*******',
+          // mail: 'andrewswift32@gmail.com',
           date: 'till date',
           title: 'Game Used 5-24-21 vs. MTL" Inscription',
           price: '$10,999',
@@ -216,7 +219,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-green-600 text-white text-[10px] leading-[10px]">paid</p>',
         },
         {
-          mail: 'self',
+          mail: '*******',
+          // mail: 'self',
           date: 'till date',
           title: 'Fanatics Authentic 36" x 48',
           price: '$4,999',
@@ -225,7 +229,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
         },
         {
-          mail: 'self',
+          mail: '*******',
+          // mail: 'self',
           date: 'till date',
           title: 'White Adidas Authentic Jersey Hand Painted',
           price: '$2,999',
@@ -234,7 +239,8 @@ export default {
           tag: '<p class="inline-block p-1 px-2 rounded-sm bg-red-600 text-white text-[10px] leading-[10px]">declined</p>',
         },
         {
-          mail: 'self',
+          mail: '*******',
+          // mail: 'self',
           date: '02/01/2023',
           title: 'Autographed Fanatics Authentic Blue Jersey - Hand Painted',
           price: '$3,499',

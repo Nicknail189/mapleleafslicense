@@ -1,0 +1,3 @@
+<template>
+    <investments/>
+</template>

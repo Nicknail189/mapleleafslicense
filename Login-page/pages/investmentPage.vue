@@ -1,0 +1,3 @@
+<template>
+    <investor-page/>
+</template>

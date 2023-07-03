@@ -1,0 +1,29 @@
+<template>
+    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-2 text-center text-black">
+        <NuxtLink to="/viewInvestor">
+        <div class="flex flex-col justify-center items-center">
+            <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('/public/Jessi.jpg')] bg-center bg-cover bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Jessica Gilbert <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">user</sup></p>
+            <p class="text-[18px] font-bold">$209,667</p>
+        </div>
+        </NuxtLink>
+
+        <div class="flex flex-col justify-center items-center">
+            <div class="w-[140px] h-[140px] rounded-[50%] opacity-70 bg-[url('/public/emily.avif')] bg-center bg-cover bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Emily Kent</p>
+            <p class="text-[18px] font-bold">$167,379</p>
+        </div>
+
+        <div class="flex flex-col justify-center items-center">
+            <div class="w-[140px] h-[140px] rounded-[50%] opacity-70 bg-[url('/public/creed.jpg')] bg-center bg-cover bg-top bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Creed Mckinnon</p>
+            <p class="text-[18px] font-bold">$124,667</p>
+        </div>
+
+        <div class="flex flex-col justify-center items-center">
+            <div class="w-[140px] h-[140px] rounded-[50%] opacity-70 bg-[url('/public/white.avif')] bg-center bg-cover bg-top bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Joseph White</p>
+            <p class="text-[18px] font-bold">$99,209</p>
+        </div>
+    </div>
+</template>
