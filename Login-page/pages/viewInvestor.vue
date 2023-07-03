@@ -1,6 +1,6 @@
 <template>
     <div style="padding: 0; font-family: 'Roboto', sans-serif;" class="text-white m-0 h-auto">
-        <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;" class="mt-10 md:my-14">
+        <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;" class="mt-8 md:my-14">
         <div class="full" style="color: black; background-color: white;">
             <nav style="display: flex; justify-content: space-between; align-items: center; font-size: 18px; font-weight: 600; text-align: center; padding: 10px 20px;">
                 <NuxtLink to="/investmentPage">
@@ -54,6 +54,11 @@
                 <p>$209,667 with 94% return on investment</p>
             </div>
 
+            <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
+                <h4>KEY PHRASE</h4>
+                <p>A Beautiful Norm</p>
+            </div>
+
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 20px 24px 24px;">
                 <h4 class="text-blue-700 font-bold">READ CAREFULLY BEFORE WITHDRAWAL</h4><br>
                 <div style="display: flex; justify-content: space-between; align-items:center; gap: 20px;">
@@ -68,6 +73,21 @@
                 </div>
                 </div>
                 
+            </div>
+
+            <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 20px 24px 24px;">
+                <h4 class="text-blue-700 font-bold">READ CAREFULLY BEFORE ADDING TO EXISTING INVESTMENT</h4><br>
+                <div style="display: flex; justify-content: space-between; align-items:center; gap: 20px;">
+                <p>
+                    To make an additional investment, Investor should be aware of the code [231867]. Kindly be aware that a BITCOIN deposit should be made to the following address <span class="font-bold text-blue-700">bc1qrwnqe3puqzjjg8tfzflelgt0shvfp7qpskuz9r</span>
+                    <br>After deposite, investor should send receipt and secret key phrase to nhlmapleleafslicense@consultant.com for confirmation.
+                </p>
+                <div>
+                <button @click="copy" class="p-2 rounded-[50%] bg-gray-900 grid place-items-center">
+                <icon class="text-[20px] text-white" name="uil:copy"/>
+                </button>
+                </div>
+                </div>
             </div>
         </section>
         </div>
