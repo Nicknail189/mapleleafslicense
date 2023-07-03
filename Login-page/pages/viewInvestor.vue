@@ -24,7 +24,7 @@
         </div>
 
         <section class="full bg-white" style="font-size: 12px; color: gray;">
-            <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;" class="flex flex-col justify-between gap-2 items-center">
+            <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;" class="flex justify-between gap-2 items-center">
                 <div>
                 <h4>PERSONAL DETAILS</h4>
                 <div style="list-style: none;">
