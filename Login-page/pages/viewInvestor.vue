@@ -1,6 +1,6 @@
 <template>
     <div style="padding: 0; font-family: 'Roboto', sans-serif;" class="text-white m-0 h-auto">
-    <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;" class="my-14">
+        <div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;" class="mt-10 md:my-14">
         <div class="full" style="color: black; background-color: white;">
             <nav style="display: flex; justify-content: space-between; align-items: center; font-size: 18px; font-weight: 600; text-align: center; padding: 10px 20px;">
                 <NuxtLink to="/investmentPage">
@@ -70,12 +70,11 @@
                 
             </div>
         </section>
+        </div>
     </div>
-</div>
 </template>
 
 <script>
-
 export default {
     emits: ['closePopUp'],
 
