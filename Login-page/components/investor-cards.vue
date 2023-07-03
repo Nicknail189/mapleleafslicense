@@ -1,5 +1,5 @@
 <template>
-    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-2 text-center text-black">
+    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-2 text-center text-black bg-white py-4">
         <NuxtLink to="/viewInvestor">
         <div class="flex flex-col justify-center items-center">
             <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('/public/Jessi.jpg')] bg-center bg-cover bg-no-repeat"></div>
