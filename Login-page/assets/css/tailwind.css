@@ -24,4 +24,8 @@ body {@apply box-border bg-gradient-to-b from-[#2b3d85] to-[#182565] text-[14px]
     .bodyclass {@apply flex justify-center items-center bg-white/90 md:bg-white py-20 px-10 md:p-20 rounded-sm flex flex-col md:my-10}
     .form {@apply flex flex-col gap-[20px]}
     .input {@apply text-blue-900 font-extrabold text-[20px] w-[380px] h-[40px] outline-blue-700 px-[20px] py-[8px] rounded-sm bg-gray-100}
+
+    .phaseBtn {@apply px-6 py-1 h-10 rounded-sm text-white flex place-items-center}
+    .body-header {@apply text-[24px] font-semibold}
+
 }

@@ -4,6 +4,14 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         'nuxt-icon'
     ],
+    
+    components: [
+        {
+          path: '~/components',
+          extensions: ['.vue'],
+        }
+      ],
+      
     app: {
         head: {
             link: [{ rel: 'icon', type: 'image/png', href: 'https://www-league.nhlstatic.com/images/logos/teams-current-primary-light/10.svg' }]

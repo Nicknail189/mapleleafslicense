@@ -56,7 +56,7 @@ export default ({
     },
     methods: {
       submitBtn(){
-        if (this.login.email.trim() === 'suckoutmytampon@gmail.com' && this.login.password.trim() === 'aM34Bev01') {
+        if (this.login.email.trim() === 'abc@gmail.com' && this.login.password.trim() === 'password') {
           this.$router.push("/dashboard")
           console.log('here')
         } else if (this.login.email.trim() === '' && this.login.password.trim() === ''){
