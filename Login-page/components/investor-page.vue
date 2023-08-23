@@ -64,7 +64,7 @@
           <div class="container bg-blue-900 px-4 py-10">For any issue of double payment, transactions, and delay, kindly send a mail to <b class="underline cursor-pointer">nhlmapleleafslicense@consultant.com</b> with the theme TRANSACTION.</div>
         </div>
       </div>
-      
+
       <Footer/>
     </div>
   </div>

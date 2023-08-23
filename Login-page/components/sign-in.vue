@@ -59,7 +59,7 @@ export default ({
         if (this.login.email.trim() === 'abc@gmail.com' && this.login.password.trim() === 'password') {
           this.$router.push("/dashboard")
           console.log('here')
-        } else if (this.login.email.trim() === '' && this.login.password.trim() === ''){
+        } else if (this.login.email.trim() === '' && this.login.password.trim() === '') {
           alert('Fill in the necessary sign in details.')
         }
          else {
