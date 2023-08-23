@@ -8,11 +8,13 @@
         </div>
         </NuxtLink>
 
+        <NuxtLink to="/hailey">
         <div class="flex flex-col justify-center items-center">
-            <div class="w-[140px] h-[140px] rounded-[50%] opacity-70 bg-[url('/public/emily.avif')] bg-center bg-cover bg-no-repeat"></div>
-            <p class="font-medium text-[14px] mt-[10px]">Emily Kent</p>
-            <p class="text-[18px] font-bold">$167,379</p>
+            <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('/public/hailey.jpg')] bg-center bg-cover bg-zoom bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Hailey Martins <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">user</sup></p>
+            <p class="text-[18px] font-bold">$326,552</p>
         </div>
+        </NuxtLink>
 
         <div class="flex flex-col justify-center items-center">
             <div class="w-[140px] h-[140px] rounded-[50%] opacity-70 bg-[url('/public/creed.jpg')] bg-center bg-cover bg-top bg-no-repeat"></div>
