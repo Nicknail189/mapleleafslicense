@@ -46,7 +46,7 @@
 
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
                 <h4>TO</h4>
-                <p>July, 2023 [Present]</p>
+                <p>August, 2023 [Present]</p>
             </div>
             
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
