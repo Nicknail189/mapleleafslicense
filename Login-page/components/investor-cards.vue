@@ -13,7 +13,7 @@
         <NuxtLink to="/hailey">
         <div class="flex flex-col justify-center items-center">
             <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('/public/hailey.jpg')] bg-center bg-cover bg-zoom bg-no-repeat"></div>
-            <p class="font-medium text-[14px] mt-[10px]">Hailey Martins <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">user</sup></p>
+            <p class="font-medium text-[14px] mt-[10px]">Hailey Martins <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">Active</sup></p>
             <p class="text-[18px] font-bold">$326,552</p>
         </div>
         </NuxtLink>
