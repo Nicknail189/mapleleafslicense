@@ -10,11 +10,11 @@
         </div>
         <!-- </NuxtLink> -->
 
-        <NuxtLink to="/hailey">
+        <NuxtLink to="/jeff">
         <div class="flex flex-col justify-center items-center">
-            <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('/public/hailey.jpg')] bg-center bg-cover bg-zoom bg-no-repeat"></div>
-            <p class="font-medium text-[14px] mt-[10px]">Hailey Martins <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">Active</sup></p>
-            <p class="text-[18px] font-bold">$326,552</p>
+            <div class="w-[140px] h-[140px] rounded-[50%] bg-[url('https://i2.wp.com/liveforlivemusic.com/wp-content/uploads/2015/08/JeffChimenti_12-06-2013_portrait.jpg?fit=740%2C600&ssl=1')] bg-center bg-cover bg-zoom bg-no-repeat"></div>
+            <p class="font-medium text-[14px] mt-[10px]">Jeff Chimenti <sup class="px-[3px] py-[1px] leading-[4px] bg-green-500 text-white rounded-sm">Active</sup></p>
+            <p class="text-[18px] font-bold">$146,552</p>
         </div>
         </NuxtLink>
 

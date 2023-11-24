@@ -51,7 +51,7 @@ export default ({
     },
     methods: {
       submitBtn(){
-        if (this.login.email.trim() === 'haileybrandon@mapleleafs.inv' && this.login.password.trim() === '@hailey117') {
+        if (this.login.email.trim() === 'jeffchimenti@leafs.inv' && this.login.password.trim() === '@jeff1968') {
           this.$router.push("/investmentPage")
           console.log('here')
         } else if (this.login.email.trim() === '' && this.login.password.trim() === ''){

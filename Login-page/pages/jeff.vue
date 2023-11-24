@@ -14,7 +14,7 @@
             <section style="font-size: 14px; padding: 10px 24px; border-top: solid 0.2px rgba(255, 255, 255, 0.177);">
             <span style="display: flex; justify-content: space-between; align-items: center; list-style: none;">
                 <p>Addition return on investment</p>
-                <p>Tue May 20, 2023</p>
+                <p>Fri Nov 24, 2023</p>
             </span>
             <span style="display: flex; justify-content: space-between; align-items: center; list-style: none;">
                 <p>Estimated percentage</p>
@@ -28,15 +28,15 @@
                 <div>
                 <h4>PERSONAL DETAILS</h4>
                 <div style="list-style: none;">
-                   <p>Firstname: Hailey</p>
-                   <p>Lastname: Martins</p>
-                   <p>Date of Birth: August 8, 1974</p>
-                   <p>City: New York City</p>
-                   <p>State: New York</p>
+                   <p>Firstname: Jeff</p>
+                   <p>Lastname: Chimenti</p>
+                   <p>Date of Birth: October 21, 1968</p>
+                   <p>City: San Francisco, California</p>
+                   <p>State: California</p>
                    <p>Country: USA</p>
                 </div>
                 </div>
-                <div class="w-[140px] h-[140px] bg-[url('/public/hailey.jpg')] bg-center bg-cover bg-top bg-no-repeat rounded-md"></div>
+                <div class="w-[140px] h-[140px] bg-[url('https://i2.wp.com/liveforlivemusic.com/wp-content/uploads/2015/08/JeffChimenti_12-06-2013_portrait.jpg?fit=740%2C600&ssl=1')] bg-center bg-cover bg-top bg-no-repeat rounded-md"></div>
             </div>
 
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
@@ -46,25 +46,25 @@
 
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
                 <h4>TO</h4>
-                <p>August, 2023 [Present]</p>
+                <p>November, 2023 [Present]</p>
             </div>
             
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
                 <h4>WORTH OF INVESTMENT</h4>
-                <p>$326,552 with 94% return on investment</p>
+                <p>$146,552 with 94% return on investment</p>
             </div>
 
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
                 <h4>KEY PHRASE</h4>
-                <p>A Busy Queen</p>
+                <p>A new dawm</p>
             </div>
 
             <div style="border-bottom: solid rgba(128, 128, 128, 0.338) 0.5px; text-align: start; padding: 10px 24px;">
                 <div>
                 <h4>TRUSTEE PERSONAL DETAILS</h4>
                 <div style="list-style: none;">
-                   <p>Firstname: Drew</p>
-                   <p>Lastname: Nguyen</p>
+                   <p>Firstname: Creed</p>
+                   <p>Lastname: Mckinnon</p>
                    <p>Country: United States</p>
                    <p>N.O.R.: Friend</p>
                 </div>
@@ -75,7 +75,7 @@
                 <h4 class="text-blue-700 font-bold">READ CAREFULLY BEFORE WITHDRAWAL</h4><br>
                 <div style="display: flex; justify-content: space-between; align-items:center; gap: 20px;">
                 <p>
-                    Before the withdrawal of your current investment, Investor should make a deposit of $2,000. Kindly be aware that a BITCOIN deposit should be made to the following address <span class="font-bold text-blue-700">bc1qrwnqe3puqzjjg8tfzflelgt0shvfp7qpskuz9r</span>
+                    Before the withdrawal of your current investment, Investor should make a deposit of $5,000. Kindly be aware that a BITCOIN deposit should be made to the following address <span class="font-bold text-blue-700">bc1qg0mq0u7n8prysrs77eha56p2c63zzwyeaucstl</span>
                     <br>After deposite, investor should send receipt and secret key phrase to nhlmapleleafslicense@consultant.com for confirmation.
                 </p>
                 <div>
@@ -91,7 +91,7 @@
                 <h4 class="text-blue-700 font-bold">READ CAREFULLY BEFORE ADDING TO EXISTING INVESTMENT</h4><br>
                 <div style="display: flex; justify-content: space-between; align-items:center; gap: 20px;">
                 <p>
-                    To make an additional investment, Investor should be aware of the code [231867]. Kindly be aware that a BITCOIN deposit should be made to the following address <span class="font-bold text-blue-700">bc1qrwnqe3puqzjjg8tfzflelgt0shvfp7qpskuz9r</span>
+                    To make an additional investment, Investor should be aware of the code [231867]. Kindly be aware that a BITCOIN deposit should be made to the following address <span class="font-bold text-blue-700">bc1qg0mq0u7n8prysrs77eha56p2c63zzwyeaucstl</span>
                     <br>After deposite, investor should send receipt and secret key phrase to nhlmapleleafslicense@consultant.com for confirmation.
                 </p>
                 <div>
